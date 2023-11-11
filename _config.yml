@@ -39,6 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # WARNING: Removing all the links here breaks the build.
+    - https://takumif.github.io
     - https://twitter.com/takumifujimoto # change to your twitter homepage
     - https://github.com/takumif # change to your github homepage
     # Uncomment below to add more social links
