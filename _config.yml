@@ -38,8 +38,8 @@ social:
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # WARNING: Removing this breaks the build.
-    - https://github.com/takumif # change to your github homepage
+    # WARNING: Removing this breaks the build. Or not?
+    # - https://github.com/takumif # change to your github homepage
     # - https://twitter.com/username # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -189,7 +189,7 @@ jekyll-archives:
   enabled: [tags]
   layouts:
     tag: tag
-    # category: category
+    category: category
   permalinks:
     tag: /tags/:name/
-    # category: /categories/:name/
+    category: /categories/:name/
