@@ -26,7 +26,7 @@ For instance, if I see an avocado and a sea urchin at $1 and $10 respectively, w
 
 This is likely due to the anchoring effect, where my willingness to pay is pulled towards the prices I expect to see, and when the current price is more expensive / cheaper than what I expected, it feels more / less than my willingness to pay, respectively.
 
-# The implications on market economies
+# Market economies are made inefficient as a result
 This disconnect between our willingness to pay and the values the goods and services provide could a significant issue with market economics. If in fact there is a big disconnect between the two, then that'd lead a market economy to allocate its resources to produce more of the things that don't make people all that much happier, or produce less of the things that actually would.
 
 This seems like an issue that is fundamental but yet hard to solve. If we can't quantify the value that goods and services provide us, then we don't know how much of a problem it is, or whether certain interventions to a free market economy can alleviate it. Is this an unsolvable problem?
