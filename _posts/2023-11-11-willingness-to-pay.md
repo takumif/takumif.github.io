@@ -19,7 +19,7 @@ How many more times *do* I enjoy it, then? **I don't know**, and this is a probl
 
 That was a gross oversimplification but I think the point still stands: prices that are determined by our willingness to pay are suboptimal, since our willingness to pay is not perfectly correlated to the value we derive from the purchased goods and services.
 
-# My willingness to pay is anchored to prices I've seen before
+# My willingness to pay is anchored to the prices I've seen before
 If it's not just the values they provide, then what other factors affect my willingness to pay? One factor that I know to be affecting my purchasing decisions much more than it should is how the current price compares to what I expected the price to be, which often is what I remember the market price to be.
 
 For instance, if I see an avocado and a sea urchin at $1 and $10 respectively, when I remember them to have been $0.50 and $20 the week before, then I'd be much more eager to buy the sea urchin than the avocado, even though the sea urchin might not bring me 10 times as much joy as the avocado and I'd be better off buying the latter!
