@@ -8,7 +8,7 @@ tags: ["Economics"]
     - It's difficult (impossible?) for people to quantify how much a good or a service is really worth to them.
     - People's willingness to pay is anchored to the market price and the social norms.
 
-# I like it, but I don't know how to quantify that
+# I like stuff, but I don't know how to quantify that
 I like avocados and sea urchin, two foods that share a few similarities.
 
 They go well with soy sauce, wasabi, and white rice. They both have rich tastes and creamy textures. They can also be hit or miss -- sometimes they'd taste less fresh or more bitter than expected.
@@ -27,4 +27,6 @@ For instance, if I see an avocado and a sea urchin at $1 and $10 respectively, w
 This is likely due to the anchoring effect, where my willingness to pay is pulled towards the prices I expect to see, and when the current price is more expensive / cheaper than what I expected, it feels more / less than my willingness to pay, respectively.
 
 # The implications on market economies
-This disconnect between our willingness to pay and the values the goods and services provide could a significant issue with market economics. If in fact there is a big disconnect between the two, then that'd lead a market economy to allocate its resources to produce more of the things that don't make people all that much happier, or produce less of the things that actually would. This seems like an issue that is fundamental but yet hard to solve. If we can't quantify the value that goods and services provide us, then we don't know how much of a problem it is, or whether certain interventions to a free market economy can alleviate it. Is this an unsolvable problem?
+This disconnect between our willingness to pay and the values the goods and services provide could a significant issue with market economics. If in fact there is a big disconnect between the two, then that'd lead a market economy to allocate its resources to produce more of the things that don't make people all that much happier, or produce less of the things that actually would.
+
+This seems like an issue that is fundamental but yet hard to solve. If we can't quantify the value that goods and services provide us, then we don't know how much of a problem it is, or whether certain interventions to a free market economy can alleviate it. Is this an unsolvable problem?
